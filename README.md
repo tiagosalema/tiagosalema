@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello there. I'm Tiago.
+<a href="https://www.linkedin.com/in/tiagosalema/">
+  <img align="left" alt="Tiago's LinkdeIn logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/tiagosalema/">
+  <img align="left" alt="Tiago's Leetcode logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codewars.com/users/tiagosalema">
+  <img align="left" alt="Tiago's Codewars logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codewars.svg" />
+</a>
 
-<!--
-**tiagosalema/tiagosalema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer.
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐥 Born in Portugal
+
+👨‍💻 Working in the UK
+
+👯 Active on some open-source projects.
+
+🤓 Check out [my articles](https://dev.to/tiagosalema) in dev.io.
+
+⚡ Fun fact: It works on my machine!
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiagosalema&show_icons=true&theme=react)
