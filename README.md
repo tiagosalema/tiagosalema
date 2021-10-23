@@ -26,9 +26,9 @@ I'm a full stack developer.
 <br>
 <br>
 
-🐥  Born and raised in Portugal 🇵🇹
+🐥  Born and raised in Portugal
 
-👨‍💻  Working in the UK 🇬🇧  since 2019
+👨‍💻  Working in the UK since 2019
 
 🏋️‍♀️ Active on some open-source projects.
 
