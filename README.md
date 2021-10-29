@@ -21,13 +21,10 @@ I'm a full-stack developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br>
-<br>
 
 🐥  Born and raised in Portugal
 
 👨‍💻  Working in the UK since 2019
-
-🏋️‍♀️ Active on some open-source projects.
 
 Fun fact: It works on my machine! 🤓
 
